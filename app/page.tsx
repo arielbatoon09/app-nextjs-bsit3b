@@ -51,7 +51,7 @@ export default function Home() {
             </CardContent>
             <CardFooter>
               <Link href="/about">
-                <Button>Visit Me</Button>
+                <Button>Tap Me</Button>
               </Link>
             </CardFooter>
           </Card>
